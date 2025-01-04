@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Physics Notes",
+    "description": "Chapter 1: Mechanics",
+    "file_url": "https://github.com/buntychakraborty/pdfs/blob/master/abc.pdf?raw=true"
+  },
+  {
+    "id": 2,
+    "title": "Math Notes",
+    "description": "Algebra Basics",
+    "file_url": "https://github.com/buntychakraborty/pdfs/blob/master/abc.pdf?raw=true"
+  }
+]
